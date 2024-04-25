@@ -26,6 +26,11 @@ This project consists of two main parts:
 
 
 ./mvnw spring-boot:run
+
+
+ it will be running in localhost:8080 port
+
+
 **2. Front End (React):**
 
 
@@ -42,5 +47,8 @@ npm run dev
 Project typically runs at 
 
 
-http://localhost:5137/home
+http://localhost:5173/home
+
+
+ or open the deployed port in browser as like above path 
 ```bash
