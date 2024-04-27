@@ -23,6 +23,7 @@ This project consists of two main parts:
 
 1. Open a terminal or command prompt and navigate to the root directory of your project (the one containing both the `API` folder).
 2. Run the following command to build and run the Spring Boot application using the Maven wrapper:
+3. MySql server should be in running state
 
 
 ./mvnw spring-boot:run
