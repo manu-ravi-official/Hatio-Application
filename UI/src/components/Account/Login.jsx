@@ -46,7 +46,7 @@ const Login = () => {
       </Typography>
       <Box component="form" onSubmit={handleLogin} sx={{ mt: 1 }}>
         <TextField
-          label="Username"
+          label="Email"
           variant="outlined"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
